@@ -1,6 +1,4 @@
-# 🧠 Resume Tracker - SHIVENDRA & PRERNA(group project)
-
-A smart **AI-powered ATS Resume Tracker** built with **Streamlit** and **Google Gemini API**. This tool helps candidates and recruiters evaluate how well a resume matches a given job description.
+# A smart **AI-powered ATS Resume Tracker** built with **Streamlit** and **Google Gemini API**. This tool helps candidates and recruiters evaluate how well a resume matches a given job description.
 
 ## 🔍 Features
 
